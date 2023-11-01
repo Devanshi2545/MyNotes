@@ -1,0 +1,58 @@
+What is a programming language?
+
+way to give instruction to computers. We give an instruction manual and the computer follows.
+ex-moving mouse, playing games...
+Without code, computer programs wouldn't do anything.
+You wouldn't be able to move the mouse around on your screen.
+You wouldn't be able to Google things.
+You wouldn't be able to play Pokemon on your phone.
+
+Computers don't understand English or any other language. It understands binary language(0,1).
+It is hard for a human to communicate binary language so they developed a language in between human and machine language.
+We take our source code to a translator that converts human code to binary language.
+This translator is nothing but another code written by humans. Ex-interpreter(used by Python)-it goes line by line, and the compiler goes all one at a time.
+
+Python-CPython  
+Python interpreter will interpret CPython and create something called byte code...it gets rub on cpython virtual machine and converts to binary language(machine language)
+
+
+TERMINAL           CODE EDITORS            IDEs                  NOTEBOOKS
+                     VS CODE         PC(PYCHARM),SPYDER           JUPYTER
+                    SUBLIME TEXT
+-----------------------------------------------
+PYTHON 2 VS PYTHON 3
+At present we use python 3 (created in 2008) 
+
+https://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html
+
+Read this to see differences between python 2 and python3
+-----------------------------------------------
+Why there are so many languages?
+The reason there are so many programming languages is that every programming language excels at some
+
+
+things and well doesn't do so well at others.
+
+
+It's all about trade off.
+
+There is no ultimate language, and if a programmer tells you, Hey, my language is the best language.
+
+They're probably junior developers that don't know what they're talking about.
+
+
+Everything is a pro and con.
+-----------------------------------------------
+How python works?
+Python gets written as source code.
+We use this translation service called an interpreter to run this code, and then we'll spit out some instruction for our machines.
+----------------------------------------------
+Learning python
+ you need 
+ 1. Terms-you're going to have to memorize things like statements, variables, instantiation.
+
+ 2. Data types-to store information
+ 
+ 3. Actions-All programming is is a way for us to tell our machines, Hey, store this data and then retrieve this data and perform some action on it.
+
+ 4. Best practices

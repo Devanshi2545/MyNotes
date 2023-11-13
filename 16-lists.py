@@ -1,0 +1,19 @@
+#lists- ordered sequence of objects that can be of any type...
+#denoted by square brackets []
+#one list can contain more than one type its can include int, char etc...
+#WHAT IS DATA STRUCTURE ?
+#It is a way to organise information in data into a folder so that these data structures can be used for some pros and cons...
+#example-a bag pack in which we can store differents things all together-->(pros)  but becon=mes difficult when you are looking for a paticular thing-->(cons)
+#so DS is a container around the data that has diffeent pros and cons of accessing data,removing data or updating data....
+#list slicing
+amazon_cart = ['notebooks','sunglasses',
+               'toys','grapes']
+print(amazon_cart[0:2:1])
+print(amazon_cart[0::2])
+#Unlike strings, lists are mutable ie can be replaced
+amazon_cart[0]='laptop'#Replacing notebooks with laptop
+new_cart = amazon_cart[:] # : <-this colon indicates that content in amazon cart will be copies here and if we do changes in new cart it would not be changes in amazon cart...
+#but if we have not put : in the bracket then the content of amazon cart store in memory will also be stored in new cart ie they both will be equal to one another and so changes in nw cart will also change content of amazon cart...
+new_cart[0]='gum'
+print(new_cart)
+print(amazon_cart)

@@ -1,3 +1,4 @@
+#IMUABILITY-cannot change value but we can re-assign value
 selfish= '01234567'
         #01234567
 print(selfish[1])

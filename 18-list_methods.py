@@ -77,5 +77,35 @@ print(new_basket)
 basket.reverse()
 print(basket)
 
+print(basket[::-1])
+
+print(range(1,100))
+print(list(range(1,100)))
+print(list(range(101)))
+
+#JOIN
+sentence=' '
+new_sentence=sentence.join(['hi','my','name','is','jojo'])
+print(new_sentence)
+
+
+new_sentence=' '.join(['hi','my','name','is','jojo'])
+print(new_sentence)
+
+
+#LIST UNPACKING
+a,b,c=[1,2,3]
+print(a)
+print(b)
+print(c)
+
+a,b,c,*other,d,e=[1,2,3,4,5,6,7,8,9]
+print(a)
+print(b)
+print(c)
+print(other)
+print(d)
+print(e)
+
 
 

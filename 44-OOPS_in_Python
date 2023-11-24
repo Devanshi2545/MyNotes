@@ -1,0 +1,33 @@
+#OBJECTS have methods and attributes that can be accessed using dot(.) operator
+print(type(None))
+print(type(True))
+print(type(5))
+#and many more
+#in output we can see a wird'class'
+#so we will know more about these classes
+#oop is a paradigm
+#the key takeaway is that we're able to create our own types, our own data types with different attributes and methods.
+
+#In Python, object-oriented Programming (OOPs) is a programming paradigm that uses objects and classes in programming. It aims to implement real-world entities like inheritance, polymorphisms, encapsulation, etc. in the programming. The main concept of OOPs is to bind the data and the functions that work on that together as a single unit so that no other part of the code can access this data.
+
+#OOPs Concepts in Python
+#Class
+#Objects
+#Polymorphism
+#Encapsulation
+#Inheritance
+#Data Abstraction
+
+# OOPS IS LIKE WE CAN SAY LETS MODAL SOMETHNGS IN A CODE IN REAL WORLD OBJECT
+# EX we want a car so we made a car object and added all the important things like colour,engine etc in that modal
+# instead of writing these procedural codes line by line we can think of modals ,real world modals
+# In python we can make our own class by writing 'class' and then writing the name we want
+# syntax
+class BigObject: #class(Blue Print)
+    pass
+obj1=BigObject() #instanciate
+obj2=BigObject() #instanciate
+obj3=BigObject() #instanciate
+
+print(type(obj1))
+#hme again and again code nhi likhna pdta we can make a class and call it whenever we want

@@ -1,4 +1,12 @@
 #Fundamental Data type-values in python
+#integers-int-3
+#floating point-float-3.09
+#strings-str-" "
+#lists-list-[ ]
+#dictionary-dict-{Unordered key:value pairs}
+#tuples-tup-( )
+#sets-set-{ }
+#booleans-bool-true or false
 int #integers
 #3 4 5 ...are  numbers.Integer is used for numeric calculations
 print(2+4)

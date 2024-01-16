@@ -83,3 +83,12 @@ None
 #As the name suggests, means nothing.
 #It's kind of like the idea of zero in math.
 #It's the absence of value.
+#---------------------------------------------------------------------
+# PYTHON uses dynamic typing...
+# PROS AND CONS OF DYNAMIC TYPING
+#PROS
+#1. very easy to work with
+#2. faster development time
+#CONS
+#1. may result in bugs for unexpected datatypes!
+#2. you need to be aware of type()

@@ -1,0 +1,22 @@
+What is a programming language?
+
+way to give instruction to computers. We give an instruction manual and the computer follows.
+ex-moving mouse, playing games...
+Without code, computer programs wouldn't do anything.
+You wouldn't be able to move the mouse around on your screen.
+You wouldn't be able to Google things.
+You wouldn't be able to play Pokemon on your phone.
+
+Computers don't understand English or any other language. It understands binary language(0,1).
+It is hard for a human to communicate binary language so they developed a language in between human and machine language.
+We take our source code to a translator that converts human code to binary language.
+This translator is nothing but another code written by humans. Ex-interpreter(used by Python)-it goes line by line, and the compiler goes all one at a time.
+
+Python-CPython  
+Python interpreter will interpret CPython and create something called byte code...it gets rub on cpython virtual machine and converts to binary language(machine language)
+
+
+TERMINAL           CODE EDITORS            IDEs                  NOTEBOOKS
+                     VS CODE         PC(PYCHARM),SPYDER           JUPYTER
+                    SUBLIME TEXT
+
